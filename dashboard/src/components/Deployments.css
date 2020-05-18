@@ -1,0 +1,45 @@
+.deploy-card {
+    background: #fff;
+    padding: 20px;
+    border-radius: 4px;
+    margin: 10px auto;
+    width: 320px;
+}
+.deploy-card:hover {
+    box-shadow: 12px 0 15px -4px hsla(0, 0%, 50.2%, 0.27),
+    -12px 0 8px -4px hsla(0, 0%, 50.2%, 0.27);
+}
+.deploy-name {
+    font-size: 20px;
+    font-weight: bold;
+}
+.deploy-left {
+    font-size: 12px;
+    margin-right: 5px;
+}
+.deploy-right {
+    font-size: 14px;
+    font-weight: bold;
+}
+.deploy-group {
+    padding: 10px 0;
+}
+.deploy-d {
+    font-size: 14px;
+}
+
+.deploy-button:focus {
+    outline: none;
+}
+.mainHeading {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 10px 0px;
+}
+.spinner-wrapper {
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}

@@ -1,0 +1,16 @@
+.mainHeading {
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 10px 0px;
+}
+.error {
+    color: red;
+    padding-left: 20px;
+}
+.spinner-wrapper {
+    min-height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+}
